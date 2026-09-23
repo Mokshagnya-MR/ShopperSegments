@@ -1,0 +1,10 @@
+# Raw dataset (download from UCI) and local cache
+online_retail_II.xlsx
+*.parquet
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.streamlit/secrets.toml
