@@ -1,0 +1,6 @@
+Segment,Customers,Recency,Frequency,Monetary,AvgOrderValue,Revenue,CustomerShare,RevenueShare,Action
+Champions,447,15.4944,32.7942,20701.8187,738.7812,9253712.964,7.6384,54.2149,"Reward them: early access to new ranges, a VIP tier and referral incentives. No discounts needed."
+Loyal,1275,48.3882,9.24,3723.7873,466.924,4747828.857,21.7874,27.8162,"Upsell and cross-sell: bundles, volume pricing and a loyalty programme to push them into Champions."
+New,1115,30.9677,2.5238,667.9842,299.3434,744802.401,19.0533,4.3636,Onboard fast: a welcome series and a time-limited second-order incentive to build the habit.
+At Risk,1363,282.6552,3.865,1383.1538,451.3329,1885238.644,23.2912,11.0451,"Win back now: personalised 'we miss you' offer based on past purchases, plus a quick feedback survey."
+Lost,1652,411.8795,1.2542,264.5278,227.0216,436999.871,28.2297,2.5603,"Low-cost reactivation only: one seasonal campaign, then suppress from paid channels."

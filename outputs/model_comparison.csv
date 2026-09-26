@@ -1,0 +1,4 @@
+,silhouette,davies_bouldin,ARI_vs_kmeans,smallest_cluster,largest_cluster
+K-Means,0.3416,0.9549,1.0,447.0,1652.0
+Gaussian Mixture,0.1953,1.2808,0.4042,245.0,2018.0
+Agglomerative (Ward),0.2511,1.173,0.4417,409.0,2299.0

@@ -1,0 +1,8 @@
+step,rows_removed,rows_remaining,pct_of_raw_removed
+Raw data,0,1067371,0.0
+Missing Customer ID,243007,824364,22.7669
+Cancelled invoices (start with 'C'),18744,805620,1.7561
+Non-positive quantity,0,805620,0.0
+Zero or negative price,71,805549,0.0067
+"Non-product codes (postage, fees, manual)",2898,802651,0.2715
+Exact duplicate rows,26055,776596,2.441
